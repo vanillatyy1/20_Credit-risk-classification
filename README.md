@@ -2,7 +2,7 @@
 
 ## 1) Executive Summary:
 
-The credit risk classification project aimed at predicting the likelihood of loan defaults using machine learning models. We utilized logistic regression to analyze a dataset containing various financial attributes of borrowers. The model achieved good accuracy and provided valuable insights into the prediction of both healthy and high-risk loans. However, further validation and potential exploration of alternative models,especially for high-risk loans predictions, are recommended to ensure practical applicability.
+The credit risk classification project aimed at predicting the likelihood of loan defaults using machine learning models. The logistic regression model is utilized to analyze a dataset containing various financial attributes of borrowers. The model achieved good accuracy and provided valuable insights into the prediction of both healthy and high-risk loans. However, further validation and potential exploration of alternative models, especially for high-risk loans predictions, are recommended to ensure practical applicability.
 
 **Links:**
 
