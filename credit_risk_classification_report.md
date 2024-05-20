@@ -80,4 +80,4 @@ There are 18,765 instances in the dataset where the loan status is 0 (healthy lo
 
 Utilizing techniques such as the RandomOverSampler to address class imbalance can potentially improve the model's ability to detect and classify high-risk loans more accurately. By increasing the number of instances of the high-risk loan class, the model can be trained on a more balanced dataset, which may enhance its overall effectiveness. However, it is important to carefully consider the overall data quality, class balance, and evaluation metrics to ensure that any adjustments made lead to genuine improvements in model performance.
 
-This approach should be part of a broader strategy of continuous refinement to maintain the model's effectiveness in real-world applications.
+This approach should be part of a broader strategy of continuous refinement to maintain the model's effectiveness in real-world application.
