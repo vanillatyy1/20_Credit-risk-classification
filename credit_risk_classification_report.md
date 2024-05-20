@@ -72,7 +72,7 @@ Further analysis is needed to determine its suitability for practical use. Perfo
 
 ### Recommendation: 
 
-The logistic regression model shows promise for predicting credit risk, but its performance should be validated further with additional data to address class imbalance and possibly compared with alternative models, such as decision trees or random forests. Additionally, ongoing monitoring and fine-tuning of the model may be necessary to ensure the model robustness in real-world application.
+The logistic regression model shows promise for predicting credit risk, but its performance should be validated further with additional data to address class imbalance and possibly compared with alternative models, such as decision trees or random forests. Additionally, ongoing monitoring and fine-tuning of the model may be necessary to ensure the model's practicability.
 
 **Addressing Class Imbalance:**
 
