@@ -75,6 +75,7 @@ Further analysis is needed to determine its suitability for practical use. Perfo
 The logistic regression model shows promise for predicting credit risk, but its performance should be validated further with additional data to address class imbalance and possibly compared with alternative models, such as decision trees or random forests. Additionally, ongoing monitoring and fine-tuning of the model may be necessary to ensure the model robustness in real-world application.
 
 **Addressing Class Imbalance:**
+
 There are 18,765 instances in the dataset where the loan status is 0 (healthy loan), and 619 instances in the dataset where the loan status is 1 (high-risk loan). This imbalance can affect the model's performance, particularly in accurately identifying high-risk loans.
 
 Utilizing techniques such as the RandomOverSampler to address class imbalance can potentially improve the model's ability to detect and classify high-risk loans more accurately. By increasing the number of instances of the high-risk loan class, the model can be trained on a more balanced dataset, which may enhance its overall effectiveness. However, it is important to carefully consider the overall data quality, class balance, and evaluation metrics to ensure that any adjustments made lead to genuine improvements in model performance.
