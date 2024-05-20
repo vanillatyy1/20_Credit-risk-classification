@@ -47,7 +47,7 @@ weighted avg       0.99      0.99      0.99     19384
 
 **Good Accuracy and Precision:** 
 
-The logistic regression model achieved an accuracy of 99%, with perfect precision for healthy loans and good precision for high-risk loans. This indicates the model’s high reliability in correctly classifying loan statuses.
+The logistic regression model achieved an accuracy of 99%, with perfect precision for healthy loans and good precision for high-risk loans. 
 
 **Model Improvement:** 
 
